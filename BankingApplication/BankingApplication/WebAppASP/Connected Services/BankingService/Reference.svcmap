@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c05b7141-86bf-418a-b39b-6fb1ce97e3da" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53617/MKBank.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MKBank.disco" MetadataType="Disco" ID="c46ba0ff-8e90-454b-a7a8-5523df432205" SourceId="1" SourceUrl="http://localhost:53617/MKBank.svc?disco" />
+    <MetadataFile FileName="MKBank.xsd" MetadataType="Schema" ID="819af0d2-7786-441d-bf0a-932b0377d015" SourceId="1" SourceUrl="http://localhost:53617/MKBank.svc?xsd=xsd2" />
+    <MetadataFile FileName="MKBank1.xsd" MetadataType="Schema" ID="b9447a93-6d51-41b5-87be-1f361442c72b" SourceId="1" SourceUrl="http://localhost:53617/MKBank.svc?xsd=xsd1" />
+    <MetadataFile FileName="MKBank.wsdl" MetadataType="Wsdl" ID="52465b30-cf28-4237-89cf-5bfd001fcacb" SourceId="1" SourceUrl="http://localhost:53617/MKBank.svc?wsdl" />
+    <MetadataFile FileName="MKBank2.xsd" MetadataType="Schema" ID="d6e9f14c-fa1e-49fc-9961-235f823912f0" SourceId="1" SourceUrl="http://localhost:53617/MKBank.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

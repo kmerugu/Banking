@@ -1,0 +1,14 @@
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\bin\Debug\BankingApplication.exe.config
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\bin\Debug\BankingApplication.exe
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\bin\Debug\BankingApplication.pdb
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\obj\Debug\BankingApplication.exe
+C:\SVN\Projects\MyGit\BankingApplication\BankingApplication\ConsoleApp\obj\Debug\BankingApplication.pdb

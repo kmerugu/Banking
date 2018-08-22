@@ -1,0 +1,7 @@
+C:\SVN\Projects\MyGit\BankingService\BankingService\bin\BankingService.dll.config
+C:\SVN\Projects\MyGit\BankingService\BankingService\bin\BankingService.dll
+C:\SVN\Projects\MyGit\BankingService\BankingService\bin\BankingService.pdb
+C:\SVN\Projects\MyGit\BankingService\BankingService\obj\Debug\BankingService.csprojAssemblyReference.cache
+C:\SVN\Projects\MyGit\BankingService\BankingService\obj\Debug\BankingService.csproj.CoreCompileInputs.cache
+C:\SVN\Projects\MyGit\BankingService\BankingService\obj\Debug\BankingService.dll
+C:\SVN\Projects\MyGit\BankingService\BankingService\obj\Debug\BankingService.pdb
